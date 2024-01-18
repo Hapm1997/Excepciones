@@ -24,7 +24,7 @@ namespace Ejemplo_1
             {
                 a = int.Parse(textBox1.Text);
                 b = int.Parse(textBox2.Text);
-                r = a / b;
+                r = a + b;
                 lblResultado.Text = a + " / " + b + " = " + r;
                 textBox1.Text = "";
                 textBox2.Text = "";
