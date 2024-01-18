@@ -1,0 +1,10 @@
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo_1.Form1.resources
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.GenerateResource.cache
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+C:\Users\pache\OneDrive\Escritorio\.net\Nivel 2\Excepciones\Ejemplo 1\obj\Debug\Ejemplo 1.pdb
